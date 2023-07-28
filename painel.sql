@@ -42,7 +42,7 @@ INSERT INTO `configs` (`id`, `nome`, `valor`) VALUES
 (3, 'sms', 'http://painel.ddsdy.xyz/sms.php'),
 (4, 'update', 'http://painel.ddsdy.xyz/update.php'),
 (5, 'email', 'dltunnel@gmail.com'),
-(6, 'contato', 'https://t.me/davidsdy'),
+(6, 'contato', 'https://t.me/NewSSHOfc'),
 (7, 'termos', '...'),
 (8, 'checkuser', 'false'),
 (9, 'msg', 'Bem vindo ao DLTunnel !');
@@ -137,7 +137,7 @@ CREATE TABLE IF NOT EXISTS `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nome`, `login`, `senha`) VALUES
-(1, 'Davidsdy', 'admin', '21232f297a57a5a743894a0e4a801fc3');
+(1, 'NewSSHOfc', 'admin', '21232f297a57a5a743894a0e4a801fc3');
 
 --
 -- Indexes for dumped tables

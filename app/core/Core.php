@@ -3,7 +3,7 @@
 /* Class core
 * Detecta qual pagina e ação
 * Função view para incluir os html
-* Auto: https://t.me/Davidsdy
+* Auto: https://t.me/NewSSHOfc
 */
 
 class Core

@@ -2,7 +2,7 @@
 
 /* HomeController
 * Pagina inicial se estiver logado se não tiver vai para o login
-* Auto: https://t.me/Davidsdy
+* Auto: https://t.me/NewSSHOfc
 */
 
 class HomeController

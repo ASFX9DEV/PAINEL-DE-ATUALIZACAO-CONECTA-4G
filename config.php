@@ -2,7 +2,7 @@
 
 /* Arquivo config.php
 * Não mexa em nada que você não saiba
-* Auto: https://t.me/Davidsdy
+* Auto: https://t.me/NewSSHOfc
 */
 
 session_start();

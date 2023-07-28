@@ -3,7 +3,7 @@
 /* Class core
 * Script para ajudar a manipular o conecta4G
 * Não mexa em nada que você não saiba
-* Auto: https://t.me/Davidsdy
+* Auto: https://t.me/NewSSHOfc
 */
 
 include_once 'config.php';
